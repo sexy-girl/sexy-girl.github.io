@@ -1,0 +1,328 @@
+ 驱动器 C 中的卷是 Windows
+ 卷的序列号是 9872-57F0
+
+ C:\Users\Cyril\Downloads\cypress-develop 的目录
+
+2024/03/10  07:21    <DIR>          .
+2024/03/10  07:21    <DIR>          ..
+2024/03/10  07:21                 0 a.txt
+2024/03/10  07:19    <DIR>          cli
+2024/03/10  07:19    <DIR>          npm
+2024/03/10  07:19    <DIR>          packages
+2024/03/10  07:19    <DIR>          scripts
+2024/03/10  07:19    <DIR>          system-tests
+2024/03/10  07:19    <DIR>          tooling
+               1 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\cli 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\npm 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+2024/03/10  07:19    <DIR>          cypress-schematic
+2024/03/10  07:18    <DIR>          eslint-plugin-dev
+2024/03/10  07:19    <DIR>          puppeteer
+2024/03/10  07:18    <DIR>          react
+2024/03/10  07:19    <DIR>          vite-dev-server
+2024/03/10  07:19    <DIR>          vite-plugin-cypress-esm
+2024/03/10  07:19    <DIR>          vue
+2024/03/10  07:19    <DIR>          webpack-dev-server
+2024/03/10  07:19    <DIR>          webpack-preprocessor
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\npm\cypress-schematic 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\npm\eslint-plugin-dev 的目录
+
+2024/03/10  07:18    <DIR>          .
+2024/03/10  07:18    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\npm\puppeteer 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\npm\react 的目录
+
+2024/03/10  07:18    <DIR>          .
+2024/03/10  07:18    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\npm\vite-dev-server 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\npm\vite-plugin-cypress-esm 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\npm\vue 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\npm\webpack-dev-server 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\npm\webpack-preprocessor 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+2024/03/10  07:17    <DIR>          data-context
+2024/03/10  07:19    <DIR>          driver
+2024/03/10  07:19    <DIR>          extension
+2024/03/10  07:19    <DIR>          frontend-shared
+2024/03/10  07:19    <DIR>          https-proxy
+2024/03/10  07:19    <DIR>          launcher
+2024/03/10  07:19    <DIR>          launchpad
+2024/03/10  07:19    <DIR>          net-stubbing
+2024/03/10  07:19    <DIR>          network
+2024/03/10  07:19    <DIR>          packherd-require
+2024/03/10  07:18    <DIR>          proxy
+2024/03/10  07:18    <DIR>          reporter
+2024/03/10  07:18    <DIR>          rewriter
+2024/03/10  07:18    <DIR>          runner
+2024/03/10  07:19    <DIR>          server
+2024/03/10  07:19    <DIR>          socket
+2024/03/10  07:19    <DIR>          telemetry
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\data-context 的目录
+
+2024/03/10  07:17    <DIR>          .
+2024/03/10  07:17    <DIR>          ..
+2024/03/10  07:19    <DIR>          src
+2024/03/10  07:19    <DIR>          test
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\data-context\src 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\data-context\test 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\driver 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+2024/03/10  07:18    <DIR>          cypress
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\driver\cypress 的目录
+
+2024/03/10  07:18    <DIR>          .
+2024/03/10  07:18    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\extension 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\frontend-shared 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+2024/03/10  07:19    <DIR>          src
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\frontend-shared\src 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\https-proxy 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\launcher 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\launchpad 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\net-stubbing 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\network 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\packherd-require 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\proxy 的目录
+
+2024/03/10  07:18    <DIR>          .
+2024/03/10  07:18    <DIR>          ..
+2024/03/10  07:19    <DIR>          test
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\proxy\test 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\reporter 的目录
+
+2024/03/10  07:18    <DIR>          .
+2024/03/10  07:18    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\rewriter 的目录
+
+2024/03/10  07:18    <DIR>          .
+2024/03/10  07:18    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\runner 的目录
+
+2024/03/10  07:18    <DIR>          .
+2024/03/10  07:18    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\server 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+2024/03/10  07:19    <DIR>          test
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\server\test 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\socket 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\packages\telemetry 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\scripts 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\system-tests 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+2024/03/10  07:19    <DIR>          project-fixtures
+2024/03/10  07:19    <DIR>          projects
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\system-tests\project-fixtures 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+2024/03/10  07:19    <DIR>          runner-specs
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\system-tests\project-fixtures\runner-specs 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\system-tests\projects 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+2024/03/10  07:19    <DIR>          migration-e2e-custom-supportFile
+2024/03/10  07:19    <DIR>          module-api
+2024/03/10  07:19    <DIR>          protocol
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\system-tests\projects\migration-e2e-custom-supportFile 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\system-tests\projects\module-api 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\system-tests\projects\protocol 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\tooling 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+2024/03/10  07:19    <DIR>          v8-snapshot
+               0 个文件              0 字节
+
+ C:\Users\Cyril\Downloads\cypress-develop\tooling\v8-snapshot 的目录
+
+2024/03/10  07:19    <DIR>          .
+2024/03/10  07:19    <DIR>          ..
+               0 个文件              0 字节
+
+     所列文件总数:
+               1 个文件              0 字节
+             137 个目录 47,305,719,808 可用字节
